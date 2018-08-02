@@ -1,0 +1,469 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Retail 1.0.4\n"
+"POT-Creation-Date: 2018-07-23 20:30+0100\n"
+"PO-Revision-Date: 2018-05-21 13:09+0100\n"
+"Last-Translator: \n"
+"Language-Team: uXL Themes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:13
+msgid "Maybe try a search?"
+msgstr ""
+
+#: 404.php:19
+msgid "Browse our pages."
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:62
+msgid "Previous"
+msgstr ""
+
+#: comments.php:63
+msgid "Next"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:35
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:36
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:113
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:122
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:131
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:133
+msgid "Requires WooCommerce plugin."
+msgstr ""
+
+#: functions.php:141
+msgid "Shop Filters"
+msgstr ""
+
+#: functions.php:143
+msgid ""
+"Horizontal widget area for product archives. Requires WooCommerce plugin."
+msgstr ""
+
+#: functions.php:151
+msgid "Top Bar"
+msgstr ""
+
+#: functions.php:153
+msgid "Add your own content above the header."
+msgstr ""
+
+#: functions.php:161
+msgid "Offers Bar"
+msgstr ""
+
+#: functions.php:163
+msgid "Add your own content below the site masthead."
+msgstr ""
+
+#: functions.php:171
+msgid "Homepage Full Width Section"
+msgstr ""
+
+#: functions.php:173
+msgid "The large image/hero/slider area below the masthead on the homepage."
+msgstr ""
+
+#: functions.php:181
+msgid "Above Footer"
+msgstr ""
+
+#: functions.php:191
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:201
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:211
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:237 functions.php:285
+msgctxt "Google fonts: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:248 functions.php:296
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions/customizer.php:29
+msgid "Highlight/Link Color"
+msgstr ""
+
+#: functions/customizer.php:39
+msgid "Layout Options"
+msgstr ""
+
+#: functions/customizer.php:57
+msgid "Enable Boxed Layout"
+msgstr ""
+
+#: functions/customizer.php:75
+msgid "Container Width"
+msgstr ""
+
+#: functions/customizer.php:99
+msgid "Menu Position"
+msgstr ""
+
+#: functions/customizer.php:123
+msgid "Blog - Grid Layout"
+msgstr ""
+
+#: functions/customizer.php:154
+msgid "Sidebar Position"
+msgstr ""
+
+#: functions/customizer.php:158
+msgid "Left"
+msgstr ""
+
+#: functions/customizer.php:159
+msgid "Right"
+msgstr ""
+
+#: functions/customizer.php:171 functions/customizer.php:217
+msgid "Homepage Sections"
+msgstr ""
+
+#: functions/customizer.php:172
+msgid ""
+"You should first select a Static Homepage if you have not already done so. "
+"See: \"Homepage Settings\""
+msgstr ""
+
+#: functions/customizer.php:189
+msgid "Activate Sortable Sections"
+msgstr ""
+
+#: functions/customizer.php:190
+msgid "Requires WooCommerce Plugin."
+msgstr ""
+
+#: functions/customizer.php:218
+msgid ""
+"Check the box to display. Sortable: drag and drop into your preferred order."
+msgstr ""
+
+#: functions/customizer.php:226 functions/customizer.php:237
+#: functions/customizer.php:359
+msgid "Go Pro"
+msgstr ""
+
+#: functions/customizer.php:228 functions/theme-help.php:85
+msgid ""
+"Upgrade to Retail Pro for even more cool features and customization options."
+msgstr ""
+
+#: functions/customizer.php:342
+msgid "More options available"
+msgstr ""
+
+#: functions/customizer.php:351
+msgid "Documentation"
+msgstr ""
+
+#. translators: %1$s: user display name, %2$s: logout url
+#: functions/extras.php:241
+#, php-format
+msgid "Hello %1$s"
+msgstr ""
+
+#: functions/extras.php:242
+msgid "Login"
+msgstr ""
+
+#: functions/extras.php:242
+msgid "Register"
+msgstr ""
+
+#: functions/extras.php:362
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: functions/extras.php:362
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: functions/extras.php:364
+#, php-format
+msgid "Theme: %2$s by %1$s"
+msgstr ""
+
+#: functions/extras.php:387
+msgid "options"
+msgstr ""
+
+#: functions/extras.php:501
+msgid "Page Content"
+msgstr ""
+
+#: functions/extras.php:507
+msgid "Product Categories"
+msgstr ""
+
+#: functions/extras.php:513
+msgid "New products"
+msgstr ""
+
+#: functions/extras.php:519
+msgid "Featured products"
+msgstr ""
+
+#: functions/extras.php:525
+msgid "On-sale products"
+msgstr ""
+
+#: functions/extras.php:531
+msgid "Top sellers"
+msgstr ""
+
+#: functions/extras.php:537
+msgid "Top rated products"
+msgstr ""
+
+#: functions/extras.php:628
+msgid ""
+"Please note: will not import static homepage allocation or WooCommerce page "
+"allocations (shop base page, account, cart and checkout pages etc.)"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: functions/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: functions/template-tags.php:55
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: functions/template-tags.php:71
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: functions/template-tags.php:88
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: functions/theme-help.php:19 functions/theme-help.php:32
+#, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr ""
+
+#: functions/theme-help.php:19
+msgid "Theme Help"
+msgstr ""
+
+#: functions/theme-help.php:38
+msgid "Theme Links"
+msgstr ""
+
+#: functions/theme-help.php:39
+msgid "Theme Page"
+msgstr ""
+
+#: functions/theme-help.php:40
+msgid "Theme Demo"
+msgstr ""
+
+#: functions/theme-help.php:41 functions/theme-help.php:56
+msgid "Theme Documentation"
+msgstr ""
+
+#: functions/theme-help.php:42
+msgid "Theme Support"
+msgstr ""
+
+#: functions/theme-help.php:49
+#, php-format
+msgid "Getting Started with %s"
+msgstr ""
+
+#: functions/theme-help.php:59
+msgid ""
+"Do you need help to setup, configure and customize this theme? Check out the "
+"extensive theme documentation on our website."
+msgstr ""
+
+#: functions/theme-help.php:63
+#, php-format
+msgid "View %s Documentation"
+msgstr ""
+
+#: functions/theme-help.php:69
+msgid "Theme Options"
+msgstr ""
+
+#: functions/theme-help.php:72
+#, php-format
+msgid "%s makes use of the Customizer for the theme settings."
+msgstr ""
+
+#: functions/theme-help.php:76
+msgid "Customize Theme"
+msgstr ""
+
+#: functions/theme-help.php:82
+msgid "Upgrade"
+msgstr ""
+
+#: functions/theme-help.php:89
+msgid "GO PRO"
+msgstr ""
+
+#: functions/theme-help.php:111
+#, php-format
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr ""
+
+#: functions/theme-help.php:111
+msgid "Retail Review"
+msgstr ""
+
+#: functions/theme-help.php:111
+msgid "rate it"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:33
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar-shop-filters.php:20
+msgid "Product Filters"
+msgstr ""
+
+#: template-parts/content-front-page.php:18 template-parts/content-page.php:21
+#: template-parts/content-search.php:53 template-parts/content-single.php:34
+#: template-parts/content.php:53
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: template-parts/content-front-page.php:29 template-parts/content-page.php:32
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:15
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-related.php:19
+msgid "Related"
+msgstr ""
+
+#: template-parts/content-search.php:42 template-parts/content.php:42
+msgid "No Title"
+msgstr ""
+
+#: template-parts/content-search.php:57 template-parts/content.php:57
+msgid "Continue Reading"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Retail"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://uxlthemes.com/theme/retail/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Retail is a clean and uncluttered WordPress shopping theme. Support for "
+"WooCommerce and Wishlist plugins is included along with an auto-updating "
+"AJAX header cart, sticky add-to-cart panel on single product pages and a "
+"horizontal product filter widget area to help increase your e-commerce sales."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "uXL Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://uxlthemes.com"
+msgstr ""
