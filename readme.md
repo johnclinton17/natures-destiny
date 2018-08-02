@@ -1,4 +1,4 @@
-
+Nature's Destiny 
 
 == Installation ==
 1. In your admin panel, go to Appearance > Themes and click the Add New button.
